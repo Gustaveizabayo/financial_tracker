@@ -1,4 +1,4 @@
-# Somabox Financial Tracker 
+# Financial Tracker 
 
 A full-stack collaborative project and budget management platform designed for seamless project tracking, task management, and expense monitoring.
 
